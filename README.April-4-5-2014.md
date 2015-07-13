@@ -2,9 +2,9 @@
 
 Information for the organizers and teachers of the Durham ClojureBridge workshops
 
-## October 2-3 Workshop
+## April 4-5 Workshop
 * At Cognitect, 303 S Roxboro St., Suite 20, Durham
-* [Schedule](schedule.md)
+* [Schedule](schedule-April-4-5-2014.md)
 
 ## Resources
 
